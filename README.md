@@ -24,20 +24,17 @@ Prerequisites
 ``` git clone https://github.com/your-username/sql-query-generator-app.git ``` 
 
 2) Install the required Python dependencies:
-
 ``` pip install -r requirements.txt ```
 
 Set up any Large Language Model.
 
 
 3) Run the application:
-
 ``` streamlit run app.py ```
 
 Access the application through your web browser at the specified URL.
-
 Enter your natural language query in the provided text area and click the "Retrieve data from SQL" button.
-
 The application will generate the corresponding SQL query, execute it against the database, and display the results.
-![My Image]([images/my_image.png](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)
-![My Image]([images/my_image.png](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)
+
+![My Image 1](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)
+![My Image 2](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)
