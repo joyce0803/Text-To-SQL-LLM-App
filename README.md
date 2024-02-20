@@ -12,35 +12,32 @@ These queries are further used to display the required data.
 ### Getting Started
 
 Prerequisites
-Python 3.9 and above
-Streamlit
-LLM
-MySQL or other SQL database server
+
+- Python 3.9 and above
+- Streamlit
+- LLM
+- MySQL or other SQL database server
 
 ### Installation
 
-Clone the repository:
+1) Clone the repository:
+``` git clone https://github.com/your-username/sql-query-generator-app.git ``` 
 
-bash
-Copy code
-git clone https://github.com/your-username/sql-query-generator-app.git
-Install the required Python dependencies:
+2) Install the required Python dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Set up the gemini-pro model and obtain the necessary API key from Google.
+``` pip install -r requirements.txt ```
 
-Configure the application to use the gemini-pro model and specify the database connection details in the .env file.
+Set up any Large Language Model.
 
-Usage
-Run the application:
 
-bash
-Copy code
-streamlit run app.py
+3) Run the application:
+
+``` streamlit run app.py ```
+
 Access the application through your web browser at the specified URL.
 
 Enter your natural language query in the provided text area and click the "Retrieve data from SQL" button.
 
 The application will generate the corresponding SQL query, execute it against the database, and display the results.
+![My Image]([images/my_image.png](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)
+![My Image]([images/my_image.png](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)
