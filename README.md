@@ -38,3 +38,4 @@ The application will generate the corresponding SQL query, execute it against th
 
 ![My Image 1](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)
 ![My Image 2](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)
+![My Image 3](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql3.png)
