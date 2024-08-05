@@ -36,7 +36,7 @@ Access the application through your web browser at the specified URL.
 Enter your natural language query in the provided text area and click the "Retrieve data from SQL" button.
 The application will generate the corresponding SQL query, execute it against the database, and display the results.
 
-[Watch the Loom video](https://www.loom.com/embed/bcf14844df4c4aa59da2035b4fa64ac7?sid=e005f8f1-ae43-4cfb-aa41-1b4f7c994293)
+[![Watch the video](https://www.loom.com/embed/bcf14844df4c4aa59da2035b4fa64ac7?sid=e005f8f1-ae43-4cfb-aa41-1b4f7c994293)](https://www.loom.com/embed/bcf14844df4c4aa59da2035b4fa64ac7?sid=e005f8f1-ae43-4cfb-aa41-1b4f7c994293)
 
 
 ![My Image 1](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)
