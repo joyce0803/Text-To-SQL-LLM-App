@@ -39,3 +39,5 @@ The application will generate the corresponding SQL query, execute it against th
 ![My Image 1](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm1.jpg)
 ![My Image 2](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql%20llm2.jpg)
 ![My Image 3](https://github.com/joyce0803/Text-To-SQL-LLM-App/blob/main/sql3.png)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/bcf14844df4c4aa59da2035b4fa64ac7?sid=e005f8f1-ae43-4cfb-aa41-1b4f7c994293" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
